@@ -1,3 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
 when I want to make my project in public and a lot of people can use it (open source).
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+because I can update my repository on github and need to update it on my local repository or I can make changes in my local and remote,
+so my changes in two places are the same.
