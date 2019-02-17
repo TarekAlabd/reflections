@@ -12,3 +12,6 @@ branches: when we need to add new features to the program and that happens in on
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 if anyone of the collaborators edits something I can merge it with my local one.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+that's will be harder.
